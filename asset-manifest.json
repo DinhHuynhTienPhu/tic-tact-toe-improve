@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tic-tact-toe-improve/static/css/main.6b7e573b.css",
+    "main.js": "/tic-tact-toe-improve/static/js/main.7a468fae.js",
+    "index.html": "/tic-tact-toe-improve/index.html",
+    "main.6b7e573b.css.map": "/tic-tact-toe-improve/static/css/main.6b7e573b.css.map",
+    "main.7a468fae.js.map": "/tic-tact-toe-improve/static/js/main.7a468fae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b7e573b.css",
+    "static/js/main.7a468fae.js"
+  ]
+}
